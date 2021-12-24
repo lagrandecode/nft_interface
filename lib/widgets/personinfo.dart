@@ -54,7 +54,6 @@ class PersonInfo extends StatelessWidget {
             style: GoogleFonts.montserrat(
               textStyle: TextStyle(
                 fontSize: 15.0,
-                fontWeight: FontWeight.bold,
                 color: appColor.primaryColor,
               ),
             ),

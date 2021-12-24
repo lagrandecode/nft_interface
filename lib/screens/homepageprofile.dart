@@ -34,8 +34,7 @@ class HomePageProfile extends StatelessWidget {
                                 e,
                                 style: GoogleFonts.pacifico(
                                   textStyle: TextStyle(
-                                    fontSize: 18.0,
-                                    fontWeight: FontWeight.bold,
+                                    fontSize: 15.0,
                                     color: appColor.primaryColor,
                                   ),
                                 ),
